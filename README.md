@@ -2,9 +2,6 @@
 
 This repository contains **final code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
 
-For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
-
 ## Images of The Portfolio Website:
 
 #### Home
